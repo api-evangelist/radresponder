@@ -1,0 +1,41 @@
+{
+    "name": "RadResponder",
+    "description": "<p>The RadResponder Network is the national standard and Whole Community solution for the management of radiological data. It is a product of collaboration between Federal Emergency Management Agency (FEMA), Department of Energy (DOE) \/ National Nuclear Security Administration (NNSA), and the Environmental Protection Agency (EPA), and is provided free of charge to all Federal, state, local, tribal, and territorial response organizations.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-30-pm.png",
+    "tags": [
+        "have api",
+        "profile",
+        "radiation"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/radresponder\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "RadResponder",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-30-pm.png",
+            "humanURL": "https:\/\/www.radresponder.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/radresponder-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/radresponder"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.radresponder.net\/"
+        }
+    ]
+}
